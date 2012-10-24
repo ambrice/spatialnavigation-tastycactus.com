@@ -1,0 +1,9 @@
+{
+    "shell-version": ["3.6"],
+    "uuid": "spatialnavigation@tastycactus.com",
+    "name": "Spatial Navigation",
+    "description": "Switch window focus based on location (i.e. switch to window on the left)",
+    "url": "",
+    "version": 1,
+    "settings-schema": "org.gnome.shell.extensions.com-tastycactus-spatialnavigation"
+}

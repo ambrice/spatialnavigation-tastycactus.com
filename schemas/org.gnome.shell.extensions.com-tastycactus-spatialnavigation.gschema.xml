@@ -1,0 +1,21 @@
+<schemalist>
+    <schema id="org.gnome.shell.extensions.com-tastycactus-spatialnavigation" path="/org/gnome/shell/extensions/com-tastycactus-spatialnavigation/">
+        <key type="as" name="focus-left">
+            <default><![CDATA[['<alt><super>h']]]></default>
+            <summary>Switch to window on the left</summary>
+        </key>
+        <key type="as" name="focus-right">
+            <default><![CDATA[['<alt><super>l']]]></default>
+            <summary>Switch to window on the right</summary>
+        </key>
+        <key type="as" name="focus-up">
+            <default><![CDATA[['<alt><super>k']]]></default>
+            <summary>Switch to the window above</summary>
+        </key>
+        <key type="as" name="focus-down">
+            <default><![CDATA[['<alt><super>j']]]></default>
+            <summary>Switch to the window below</summary>
+        </key>
+    </schema>
+</schemalist>
+
